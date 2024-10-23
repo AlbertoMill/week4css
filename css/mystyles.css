@@ -1,0 +1,52 @@
+body {
+    background-color: #c5d8d1;
+}
+
+h1 {
+    text-align: center;
+    color: darkgreen;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+h1 {
+    font-family: Papyrus, sans-serif;
+    font-size: larger;
+}
+
+p {
+    border-style: inset;
+    border-color: darkolivegreen;
+}
+
+p{
+    font-family: Lucida Console, sans-serif;
+}
+
+h2 {
+    font-family: Papyrus, sans-serif;
+}
+
+div.colorbox square {
+    position: relative;
+    left: 30px;
+    border: 3px inset #73AD77;
+}
+
+p {
+    text-indent: 50px;
+}
+
+h2 {
+    text-decoration-line: underline;
+}
+
+p {
+    font-weight: bold;
+}
+
+span {
+    font-style: italic;
+}
